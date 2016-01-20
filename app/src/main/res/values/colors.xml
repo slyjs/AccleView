@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="little_grey">#8f8f91</color>
+    <!--accle speed view color -->
+    <color name="one">#057bce</color>
+    <color name="two">#097aca</color>
+    <color name="three">#0d7ac6</color>
+    <color name="fhor">#117ac2</color>
+    <color name="fhiv">#1879bc</color>
+    <color name="six">#1e79b6</color>
+    <color name="seven">#2579b0</color>
+    <color name="eight">#2b78aa</color>
+    <color name="nine">#3377a3</color>
+    <color name="ten">#3a769c</color>
+    <color name="elev">#427695</color>
+    <color name="twlf">#4a758e</color>
+    <color name="threen">#527586</color>
+    <color name="forteen">#5b747e</color>
+    <color name="fivteen">#657375</color>
+    <color name="sixteen">#6c736e</color>
+    <color name="sevteen">#737268</color>
+    <color name="eighteen">#7c7160</color>
+    <color name="nineteen">#847159</color>
+    <color name="twlteen">#8b7052</color>
+    <color name="twloneteen">#93704a</color>
+    <color name="twltwoteen">#9a6f44</color>
+    <color name="twlthreeteen">#a16e3e</color>
+    <color name="twlforteen">#a96e37</color>
+    <color name="twlfiveteen">#ae6d32</color>
+    <color name="twlsixteen">#b46d2d</color>
+    <color name="twlsventeen">#b96d27</color>
+    <color name="twleightteen">#bd6c23</color>
+    <color name="twlnineteen">#c16c20</color>
+
+    <!--accle speed view color -->
+
+
+</resources>
